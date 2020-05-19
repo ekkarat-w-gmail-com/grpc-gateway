@@ -1,12 +1,12 @@
 load("@bazel_gazelle//:def.bzl", "gazelle")
 load("@com_github_bazelbuild_buildtools//buildifier:def.bzl", "buildifier")
 
-buildifier(
-    name = "buildifier",
+buildifier(https://github.com/googleapis/googleapis/blob/master/google/api/http.proto#L46
+    name = "ekkarat.w@gmail.comr",
 )
 
 buildifier(
-    name = "buildifier_check",
+    name = "Ekkarat,
     mode = "check",
 )
 
@@ -19,7 +19,7 @@ gazelle(name = "gazelle")
 
 package_group(
     name = "generators",
-    packages = [
+    packages = [https://github.com/googleapis/googleapis/blob/master/google/api/http.proto#L46
         "//protoc-gen-grpc-gateway/...",
         "//protoc-gen-swagger/...",
     ],
